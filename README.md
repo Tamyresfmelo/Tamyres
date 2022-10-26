@@ -1,11 +1,8 @@
-## Olá! Seja bem-vindxs ao meu perfil! 
+## Olá, Sou Tamyres França!
+## Seja bem-vindxs ao meu perfil! 
 
-<div>
-
- Sou Tamyres França, estudante de desenvolvimento Web e atualmente estou em processo de transição de carreira.
- <br> 
+ 
  <img align="center" alt="Tamyres-pic" height="130" style="border-radius:50px;" src="https://i.picasion.com/pic92/be942c646809813f577ea085a08f4f46.gif">
-</div>
 
 
 <br>
