@@ -4,12 +4,10 @@
  <img align="center" alt="Tamyres-pic" height="130" style="border-radius:50px;" src="https://i.picasion.com/pic92/be942c646809813f577ea085a08f4f46.gif">
 
 
-<br>
-<br>
 <div align="center">
-  <a href="https://github.com/Tamyresfmelo">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Tamyresfmelo&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-   <img height="130em" src=https:"//github-readme-stats.vercel.app/api/top-langs/?username=adevcarol&layout=compact&langs_count=7&theme=cobalt"/>
+  <a href="https://github.com/tamyresfmelo">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=tamyresfmelo&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamyresfmelo&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
 
 ##
