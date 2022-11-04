@@ -1,4 +1,4 @@
-<h1> Olá, Sou Tamyres França! Seja bem-vindxs ao meu perfil! <img align="center" alt="Tamyres-pic" height="100" style="border-radius:50px;" src="https://i.picasion.com/pic92/be942c646809813f577ea085a08f4f46.gif"></h1> 
+<h1> Olá, Sou Tamyres França!<img align="center" alt="Tamyres-pic" height="80" style="border-radius:50px;" src="https://i.picasion.com/pic92/be942c646809813f577ea085a08f4f46.gif"></h1> 
 
  
  <div align="center">
