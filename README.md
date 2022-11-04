@@ -1,10 +1,7 @@
-## Olá, Sou Tamyres França! Seja bem-vindxs ao meu perfil! 
+<h1> Olá, Sou Tamyres França! Seja bem-vindxs ao meu perfil! <img align="center" alt="Tamyres-pic" height="100" style="border-radius:50px;" src="https://i.picasion.com/pic92/be942c646809813f577ea085a08f4f46.gif"></h1> 
 
  
- <img align="center" alt="Tamyres-pic" height="130" style="border-radius:50px;" src="https://i.picasion.com/pic92/be942c646809813f577ea085a08f4f46.gif">
-
-
-<div align="center">
+ <div align="center">
   <a href="https://github.com/tamyresfmelo">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=tamyresfmelo&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/> 
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tamyresfmelo&layout=compact&langs_count=7&theme=cobalt"/>
@@ -15,7 +12,8 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Tamyres-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
   <img align="center" alt="Tamyres-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Tamyres-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">   
+  <img align="center" alt="Tamyres-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
+ <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
 
 ## Contatos
